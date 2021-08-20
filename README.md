@@ -2,7 +2,7 @@
 
 Initially install the below package:
 
-1.opencv-python
+1.opencv-python\
 2.mediapipe
 
 
